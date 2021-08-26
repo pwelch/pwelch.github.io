@@ -1,6 +1,6 @@
 # Paul Welch
 
-Software Developer | System Administrator
+Software Developer
 
 ## Around the Web
 
