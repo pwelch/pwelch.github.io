@@ -1,12 +1,12 @@
 # Paul Welch
 
-Software Developer
+Software Engineer
 
 ## Around the Web
 
+- [GitHub](https://github.com/pwelch)
 - [Keybase Profile](https://keybase.io/pwelch)
 - [Public PGP Key](https://keybase.io/pwelch/pgp_keys.asc)
-- [GitHub](https://github.com/pwelch)
 - [GitLab](https://gitlab.com/pwelch)
-- [Mastodon (Fediverse) - @pwelch@mastodon.social](https://mastodon.social/@pwelch)
+- [Mastodon (Fediverse)](https://mastodon.social/@pwelch)
 - [Twitter](https://twitter.com/pwelch)
