@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+// Hide GitHub download button
+#downloads {
+  display: none;
+}
+
+/*
+// Hide header
 header {
   display: none;
 }
+*/

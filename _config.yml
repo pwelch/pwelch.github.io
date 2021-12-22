@@ -1,7 +1,5 @@
 theme: jekyll-theme-hacker
-
-# title:
-# description:
-
 show_downloads: false
-show_header: false
+show_header: true
+title: pwelch.dev
+description: Paul Welch
