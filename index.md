@@ -1,10 +1,10 @@
 ## $ whoami
 
-Software Engineer currently working on software supply-chain security. 
+Software Engineer currently working on software supply chain security. 
 
 ## $ ls
 
 * [GitHub](https://github.com/pwelch)
-* [Mastodon (Fediverse)](https://mastodon.social/@pwelch)
+* <a rel="me" href="https://mastodon.social/@pwelch">Mastodon</a>
 * [Twitter](https://twitter.com/pwelch)
 
