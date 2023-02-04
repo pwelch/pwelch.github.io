@@ -3,3 +3,5 @@ show_downloads: false
 show_header: true
 title: pwelch.dev
 description: Paul Welch
+website: https://pwelch.dev
+basewebsite: /
