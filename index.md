@@ -6,4 +6,3 @@ Software Engineer currently working on software supply chain security.
 
 * [GitHub](https://github.com/pwelch)
 * <a rel="me" href="https://mastodon.social/@pwelch">Mastodon</a>
-
