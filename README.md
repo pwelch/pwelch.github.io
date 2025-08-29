@@ -5,5 +5,12 @@
 ```shell
 bundle install
 
-bundle exec jekyll serve
+# clean dev env
+rake clean
+
+# build site
+rake build
+
+# serve locally for testing
+rake serve
 ```
